@@ -108,6 +108,8 @@ export default function Home() {
           </p>
         </a>
       </div>
+
+      <p>slempke.dev</p>
     </main>
   );
 }
